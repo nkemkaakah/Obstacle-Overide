@@ -16,7 +16,7 @@
 ### GamePlay:
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github.com/nkemkaakah/Obstacle-Overide/blob/main/scrnshots/gamplay_nopause.png" width="45%" style="margin: 5px;"/>
-  <img src="https://github.com/nkemkaakah/Obstacle-Overide/blob/main/scrnshots/gamplay.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/Obstacle-Overide/blob/main/scrnshots/gameplay.png" width="45%" style="margin: 5px;"/>
 </div>
 
 ### Leadership Board Implementation
