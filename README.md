@@ -9,3 +9,18 @@
 - **Dynamic Difficulty**: As the player's score increases, the game becomes progressively harder with faster-moving obstacles.
 - **Score Tracking**: The game tracks the player's score and displays it in real-time.
 - **Leaderboard**: After losing, players can enter their name, which is stored in a leaderboard table to track high scores.
+
+
+####Here are some screenshots below:
+
+###GamePlay:
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/Obstacle-Overide/blob/main/scrnshots/gamplay_nopause.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/Obstacle-Overide/blob/main/scrnshots/gamplay.png" width="45%" style="margin: 5px;"/>
+</div>
+
+###Leadership Board Implementation
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/Obstacle-Overide/blob/main/scrnshots/leadership.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/Obstacle-Overide/blob/main/scrnshots/nmaeinput.png" width="45%" style="margin: 5px;"/>
+</div>
